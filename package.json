@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-blueocean-github",
+  "version": "1.0.0",
+  "description": "des",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruparanun/jenkins-blueocean-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruparanun/jenkins-blueocean-github/issues"
+  },
+  "homepage": "https://github.com/guruparanun/jenkins-blueocean-github#readme",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
